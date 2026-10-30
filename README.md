@@ -68,4 +68,4 @@ Commands: `/status`, `/on 1`, `/off fan`, `/auto 1`, `/manual 1`, `/co`, `/log`.
 
 ## Credits
 
-`lib/sh1106.py` is robert-hh's SH1106 driver. `lib/rotary.py` and `lib/rotary_irq_esp.py` are from Mike Teachman's micropython-rotary. Both are MIT licensed and I've kept their headers. The rest is mine, under whatever license I end up adding.
+`lib/sh1106.py` is robert-hh's SH1106 driver. `lib/rotary.py` and `lib/rotary_irq_esp.py` are from Mike Teachman's micropython-rotary. Both are MIT licensed and I've kept their headers. The rest is mine.
