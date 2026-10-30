@@ -1,0 +1,5 @@
+# created on the board at run time - the WiFi one holds your password
+settings.json
+wifi.json
+__pycache__/
+*.pyc
