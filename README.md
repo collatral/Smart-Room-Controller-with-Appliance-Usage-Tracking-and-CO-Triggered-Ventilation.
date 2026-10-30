@@ -18,6 +18,8 @@ There's also an MQ-7 gas sensor. It warms up for 3 minutes, takes whatever it re
 
 The Telegram bot is optional and it's the newest part, so it's the least tested.
 
+## <img width="1200" height="1600" alt="WhatsApp Image 2026-10-30 at 08 56 27" src="https://github.com/user-attachments/assets/f1666c3c-b5de-4014-8d9f-f0006ca3b495" />
+
 ## Parts
 
 - ESP32 DevKit
@@ -28,7 +30,7 @@ The Telegram bot is optional and it's the newest part, so it's the least tested.
 - KY-040 rotary encoder
 - a 10k and a 20k resistor
 
-## Wiring
+
 
 ```
 Relays 1-4        GPIO 4, 15, 5, 17
